@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>เว็บไซต์ของฉัน</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>เว็บไซต์ของฉัน</h1>
-    <p>เปิดเว็บด้วย GitHub Pages สำเร็จ</p>
-</body>
-</html>
+    <h1>ยินดีต้อนรับสู่เว็บไซต์</h1>
+    <p>นี่คือเว็บไซต์
